@@ -1252,6 +1252,9 @@ section {
   padding-top: 30px;
 }
 
+#footer .copyright a:hover{
+  color: #B738DD;
+}
 #footer .credits {
   padding-top: 10px;
   text-align: center;
@@ -1261,4 +1264,8 @@ section {
 
 #footer .credits a {
   color: #9eccf4;
+}
+
+#footer .credits a:hover{
+  color: #B738DD;
 }
